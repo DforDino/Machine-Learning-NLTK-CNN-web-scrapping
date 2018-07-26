@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/dino/sample-deploy-django-heroku/venv
+exec_prefix=/home/dino/sample-deploy-django-heroku/venv
+libdir=/home/dino/sample-deploy-django-heroku/venv/lib
+includedir=/home/dino/sample-deploy-django-heroku/venv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: http://tukaani.org/xz/
+Version: 5.2.3
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  
