@@ -1,0 +1,438 @@
+if sub_area=='Chertanovo Severnoe':
+  model_1.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Krjukovo':
+  model_2.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Rostokino':
+  model_3.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Basmannoe':
+  model_4.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Vnukovskoe':
+  model_5.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Desjonovskoe':
+  model_6.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Sosenskoe':
+  model_7.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Filimonkovskoe':
+  model_8.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Voskresenskoe':
+  model_9.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Novo-Peredelkino':
+  model_10.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Moskovskij':
+  model_11.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Shherbinka':
+  model_12.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Nekrasovka':
+  model_13.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Akademicheskoe':
+  model_14.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Rogovskoe':
+  model_15.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Sokol':
+  model_16.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kuz'minki':
+  model_17.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Krasnopahorskoe':
+  model_18.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Zjuzino':
+  model_19.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Novofedorovskoe':
+  model_20.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Juzhnoe Butovo':
+  model_21.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Matushkino':
+  model_22.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Otradnoe':
+  model_23.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Mitino':
+  model_24.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Beskudnikovskoe':
+  model_25.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vojkovskoe':
+  model_26.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Troickij okrug':
+  model_27.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Rjazanskij':
+  model_28.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Severnoe Butovo':
+  model_29.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kuncevo':
+  model_30.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Severnoe':
+  model_31.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Staroe Krjukovo':
+  model_32.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Golovinskoe':
+  model_33.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kon'kovo':
+  model_34.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kosino-Uhtomskoe':
+  model_35.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Veshnjaki':
+  model_36.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Horoshevo-Mnevniki':
+  model_37.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Mar'ino':
+  model_38.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Pechatniki':
+  model_39.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Tekstil'shhiki':
+  model_40.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Solncevo':
+  model_41.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Sviblovo':
+  model_42.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Silino':
+  model_43.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Obruchevskoe':
+  model_44.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Butyrskoe':
+  model_45.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Birjulevo Vostochnoe':
+  model_46.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Caricyno':
+  model_47.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Krylatskoe':
+  model_48.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Shhukino':
+  model_49.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Tverskoe':
+  model_50.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Taganskoe':
+  model_51.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kapotnja':
+  model_52.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Horoshevskoe':
+  model_53.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Orehovo-Borisovo Juzhnoe':
+  model_54.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Krasnosel'skoe':
+  model_55.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Zamoskvorech'e':
+  model_56.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Dmitrovskoe':
+  model_57.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Mozhajskoe':
+  model_58.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Juzhnoe Medvedkovo':
+  model_59.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Sokolinaja Gora':
+  model_60.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Lianozovo':
+  model_61.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Pokrovskoe Streshnevo':
+  model_62.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Zapadnoe Degunino':
+  model_63.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ajeroport':
+  model_64.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Novogireevo':
+  model_65.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Gol'janovo':
+  model_66.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ostankinskoe':
+  model_67.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Bogorodskoe':
+  model_68.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Savelovskoe':
+  model_69.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Presnenskoe':
+  model_70.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Alekseevskoe':
+  model_71.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Timirjazevskoe':
+  model_72.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Jasenevo':
+  model_73.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Altuf'evskoe':
+  model_74.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Severnoe Medvedkovo':
+  model_75.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kurkino':
+  model_76.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vyhino-Zhulebino':
+  model_77.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Filevskij Park':
+  model_78.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Kotlovka':
+  model_79.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Lefortovo':
+  model_80.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Jaroslavskoe':
+  model_81.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Severnoe Izmajlovo':
+  model_82.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ochakovo-Matveevskoe':
+  model_83.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Perovo':
+  model_84.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Nizhegorodskoe':
+  model_85.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Jakimanka':
+  model_86.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ivanovskoe':
+  model_87.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Severnoe Tushino':
+  model_88.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Nagatino-Sadovniki':
+  model_89.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ramenki':
+  model_90.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Bibirevo':
+  model_91.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Zjablikovo':
+  model_92.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Meshhanskoe':
+  model_93.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Chertanovo Juzhnoe':
+  model_94.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Danilovskoe':
+  model_95.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Hovrino':
+  model_96.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vostochnoe Degunino':
+  model_97.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Novokosino':
+  model_98.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Birjulevo Zapadnoe':
+  model_99.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Donskoe':
+  model_100.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Chertanovo Central'noe':
+  model_101.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Losinoostrovskoe':
+  model_102.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Mar'ina Roshha':
+  model_103.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vostochnoe Izmajlovo':
+  model_104.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Orehovo-Borisovo Severnoe':
+  model_105.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Izmajlovo':
+  model_106.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Preobrazhenskoe':
+  model_107.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Juzhnoe Tushino':
+  model_108.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Hamovniki':
+  model_109.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Fili Davydkovo':
+  model_110.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Juzhnoportovoe':
+  model_111.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Moskvorech'e-Saburovo':
+  model_112.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Teplyj Stan':
+  model_113.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Nagornoe':
+  model_114.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Lomonosovskoe':
+  model_115.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Ljublino':
+  model_116.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Strogino':
+  model_117.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Koptevo':
+  model_118.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Brateevo':
+  model_119.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Gagarinskoe':
+  model_120.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Babushkinskoe':
+  model_121.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Troparevo-Nikulino':
+  model_122.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Dorogomilovo':
+  model_123.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Cheremushki':
+  model_124.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Marfino':
+  model_125.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vnukovo':
+  model_126.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Begovoe':
+  model_127.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Levoberezhnoe':
+  model_128.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Prospekt Vernadskogo':
+  model_129.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Nagatinskij Zaton':
+  model_130.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Savelki':
+  model_131.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Sokol'niki':
+  model_132.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Arbat':
+  model_133.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Metrogorodok':
+  model_134.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Pervomajskoe':
+  model_135.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Mosrentgen':
+  model_136.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Marushkinskoe':
+  model_137.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Shhapovskoe':
+  model_138.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Rjazanovskoe':
+  model_139.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Kokoshkino':
+  model_140.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Vostochnoe':
+  model_141.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Voronovskoe':
+  model_142.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Klenovskoe':
+  model_143.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Kievskij':
+  model_144.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Molzhaninovskoe':
+  model_145.predict_price(b1.loc[pos:pos+1])
+
+if sub_area=='Poselenie Mihajlovo-Jarcevskoe':
+  model_146.predict_price(b1.loc[pos:pos+1])
+
